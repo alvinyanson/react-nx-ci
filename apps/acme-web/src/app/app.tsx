@@ -3,7 +3,7 @@ import { Products } from '@react-nx-cicd/products';
 import { Orders } from '@react-nx-cicd/orders';
 
 function Home() {
-  return <h1>Home Welcome</h1>;
+  return <h1>Home Welcome Home</h1>;
 }
 
 export function App() {
