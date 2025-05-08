@@ -1,7 +1,6 @@
-import { Products } from '@react-nx-cicd/products';
 
 export function App() {
-  return <Products />;
+  return <h1>Hello from inventory</h1>;
 }
 
 export default App;

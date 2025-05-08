@@ -3,12 +3,6 @@
   "include": [],
   "references": [
     {
-      "path": "../../libs/orders"
-    },
-    {
-      "path": "../../libs/products"
-    },
-    {
       "path": "./tsconfig.app.json"
     },
     {
