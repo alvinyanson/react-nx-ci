@@ -1,0 +1,8 @@
+services:
+  acme-web:
+    container_name: acme-web
+    build:
+      context: .
+      dockerfile: apps/acme-web/Dockerfile
+    ports:
+      - '3000:80' # Expose the UI app on port 3000
